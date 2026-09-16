@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Pawal" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Main theme colors -->
+        <item name="colorPrimary">@color/pure_black</item>
+        <item name="colorOnPrimary">@color/pure_white</item>
+        <item name="colorSecondary">@color/accent_neon</item>
+        <item name="colorOnSecondary">@color/pure_black</item>
+        <item name="android:windowBackground">@color/pure_white</item>
+        <item name="android:statusBarColor">@color/pure_white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Specific Style for Dark Mode if needed manually -->
+    <style name="Theme.Pawal.Monochrome.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/pure_white</item>
+        <item name="colorOnPrimary">@color/pure_black</item>
+        <item name="colorSecondary">@color/accent_neon</item>
+        <item name="colorOnSecondary">@color/pure_black</item>
+        <item name="android:windowBackground">@color/pure_black</item>
+        <item name="android:statusBarColor">@color/pure_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Background Color (Pure Black) -->
+    <solid android:color="#000000" />
+
+    <!-- Sharp Border (Accent Neon) -->
+    <stroke
+        android:width="2dp"
+        android:color="#CCFF00" />
+
+    <!-- Minimal Rounded Corners (Optional, set to 0dp for sharp) -->
+    <corners android:radius="0dp" />
+
+</shape>

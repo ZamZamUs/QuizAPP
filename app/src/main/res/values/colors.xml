@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Monochrome Palette -->
+    <color name="pure_black">#000000</color>
+    <color name="pure_white">#FFFFFF</color>
+    <color name="dark_grey">#1A1A1A</color>
+    <color name="medium_grey">#333333</color>
+    <color name="light_grey">#F5F5F5</color>
+
+    <!-- Accent Color -->
+    <color name="accent_neon">#CCFF00</color>
+    <color name="accent_error">#FF3D00</color>
+</resources>
